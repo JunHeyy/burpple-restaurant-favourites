@@ -1,8 +1,9 @@
 
 # Welcome to your Burpple Favourite Restaurants
+Important Note: Database Secret is purposefully pushed for easy checking and verification
 ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/08ca52cc-286e-4444-8c69-56e4fdeb348a)
 
-Important Note: Database Secret is purposefully pushed for easy checking and verification
+
 
 ## Frontend:
 ![7](https://github.com/user-attachments/assets/7057b81d-9518-48dc-ac61-dae8b895a4ae)
