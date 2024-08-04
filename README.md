@@ -1,8 +1,6 @@
 
-# This app is created for Burpple Interview
-
-![welcome-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/e7275d26-2928-4a98-98ea-da35ed9d0c22)
-
+# Welcome to your Burpple Favourite Restaurants
+![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/08ca52cc-286e-4444-8c69-56e4fdeb348a)
 ## Frontend:
 ![7](https://github.com/user-attachments/assets/7057b81d-9518-48dc-ac61-dae8b895a4ae)
 
