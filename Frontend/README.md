@@ -1,5 +1,8 @@
 # Welcome to Frontend for Burpple Restaurant Favourite
 
+## First thing to do:
+Run "npm install" on the terminal to install node_modules
+
 ## Available Scripts
 
 In the project directory, you can run:
